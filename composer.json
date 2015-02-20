@@ -1,5 +1,6 @@
 {
     "name": "asmcoding/yii-parse",
+    "version":"0.0.3",
     "support": {
         "email": "code@asmhosting.net",
         "source": "https://github.com/asmcoding/yii-parse"
