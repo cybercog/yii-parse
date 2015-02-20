@@ -1,0 +1,22 @@
+{
+    "name": "asmcoding/yii-parse",
+    "support": {
+        "email": "code@asmhosting.net",
+        "source": "https://github.com/asmcoding/yii-parse"
+    },
+    "authors": [
+        {
+            "name": "Aaron Schmied",
+            "email": "schmied.aaron@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "parse/php-sdk" : "1.0.*",
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": { "asm\\parse\\": "" }
+    }
+}
